@@ -1,0 +1,1 @@
+/Users/mozartlee/.zshrc
